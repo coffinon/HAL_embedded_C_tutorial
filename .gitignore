@@ -1,0 +1,10 @@
+/.metadata/
+*.hex
+*.d
+*.o
+*.list
+*.mk
+*.map
+*.elf
+*.bin
+*.bak
